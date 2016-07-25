@@ -1,1 +1,2 @@
-# first
+# first\
+printf("welcome to github:");
